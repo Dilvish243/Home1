@@ -4,21 +4,20 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Wall
-  - GameOver
+  - Cube
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Player
   - Water
   - UI
-  - Ground
-  - Enemy
-  - Player
-  - wall
-  - groundLayer
-  - wallLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
   - 
   - 
   - 
@@ -42,13 +41,4 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
-    locked: 0
-  - name: Background
-    uniqueID: 4216139879
-    locked: 0
-  - name: Character
-    uniqueID: 3621853205
-    locked: 0
-  - name: Foreground
-    uniqueID: 685554525
     locked: 0
